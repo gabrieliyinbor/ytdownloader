@@ -18,5 +18,4 @@ A simple Python script to download videos from YouTube.
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/gabrieliyinbor/ytdownloader

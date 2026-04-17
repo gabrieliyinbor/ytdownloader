@@ -1,0 +1,9 @@
+.venv-build/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+Thumbs.db

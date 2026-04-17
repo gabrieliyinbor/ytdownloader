@@ -2,6 +2,10 @@
 
 Thanks for helping test this! It's a simple YouTube downloader.
 
+## Download
+
+Grab the latest `YTDClone.exe` from the [**Releases**](../../releases) page on the right sidebar of this repo. Windows only. No installer needed — it's a single file.
+
 ## How to use it
 
 1. **Double-click `YTDClone.exe`.** First launch takes ~5 seconds (Windows unpacks it).
